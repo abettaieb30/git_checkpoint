@@ -1,0 +1,53 @@
+a.active,
+ a:hover 
+ { 
+     color: tomato;   
+ }
+
+ section 
+ {
+    font-family: 'Roboto', sans-serif;
+ }
+
+.corps {
+    background-color: aqua;
+    display: inline;
+    display: flex;
+    justify-content: space-around;
+}
+
+.p1,.p2,.p3 {
+    background-color: #f8e71d;
+    display:inline;
+    display: flex;
+    justify-content:space-evenly;
+}
+ ul{
+    display: block;
+    display: flex;
+    justify-content: space-evenly;
+    background-color: darkcyan;
+ }
+ section,aside {
+     display: inline;
+ }
+ html {
+    font-family: 'Roboto', sans-serif;
+ }
+ .footer {
+    orientation: bottom;
+    background-color: rgb(235, 133, 213);
+ }
+
+.p{
+    display: inline;
+    display: flex;
+    justify-content: space-between;
+    text-align: justify;
+}
+ child1{
+    background-color: blueviolet;
+    display :inline;
+    display: flex;
+    justify-content: space-evenly;
+ }
